@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShareMemoryServer", "ShareMemoryServer\ShareMemoryServer.vcxproj", "{635BE01B-B186-4313-91C8-33EBD8A47CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635BE01B-B186-4313-91C8-33EBD8A47CDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{635BE01B-B186-4313-91C8-33EBD8A47CDE}.Debug|Win32.Build.0 = Debug|Win32
+		{635BE01B-B186-4313-91C8-33EBD8A47CDE}.Release|Win32.ActiveCfg = Release|Win32
+		{635BE01B-B186-4313-91C8-33EBD8A47CDE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
